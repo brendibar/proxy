@@ -28,7 +28,7 @@ better work
 		line-height: 170%; margin: 5px 0;
 	}
 	p, td, th, ul {
-          	font-size: 80%;
+		font-size: 80%;
 	}
 	
 	/* LAYOUT */
@@ -57,7 +57,7 @@ better work
 	}
 	h1 a {
 		color: #FFFFFF;
-    	}
+	}
 	h1 a:hover {
 		color: #6BAD42;
 		text-decoration: none;
@@ -85,7 +85,7 @@ better work
 		width: 500px;
 		margin: 10px; padding: 0;
 	}
-  #options li { 
+	#options li { 
 		float: left;
 		width: 240px;
 		border-left: 5px solid #ccc;
@@ -114,7 +114,7 @@ better work
 	
 	/* STYLES */
 	.first {
-  margin-top: 0;
+		margin-top: 0;
 	}
 	input.textbox {
 		width: 500px;
@@ -143,7 +143,6 @@ better work
 		border-style: solid;
 		width: 50%;
 	}
-  }
 	th {
 		font-size: normal;
 		background: #ccc;
